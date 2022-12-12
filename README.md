@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohitrajput2022
-- 👀 I’m interested in Android and Web development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me rohitrajput2k22@gmail.com
 
 <!---
