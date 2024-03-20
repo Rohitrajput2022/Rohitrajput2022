@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rohitrajput2022
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me rohitrajput2k22@gmail.com
+- 👋 Hi, I’m Rohit Barwa
+- 🌱 I’m currently learning GCP DE
+
 
 <!---
 Rohitrajput2022/Rohitrajput2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
